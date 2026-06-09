@@ -1,0 +1,8 @@
+name: nepsisme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The sober watchful discipline that catches an afflicted thought at its first stirring, before it takes root.
+dependsOn: [youspeak, me, rigpame, prapañcame]
